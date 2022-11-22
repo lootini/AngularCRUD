@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "",
+      "lastName": "Tikawa",
+      "email": "hatika.tikawa@gmail.com",
+      "phoneNumber": "0612154245",
+      "salary": "150m"
+    },
+    {
+      "id": 3,
+      "firstName": null,
+      "lastName": "Mhdo",
+      "email": "mhido@el",
+      "phoneNumber": "02168216",
+      "salary": "50M$"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
